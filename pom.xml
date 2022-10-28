@@ -48,6 +48,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
+
+		<dependency>     <groupId>com.apple</groupId>
+			<artifactId>AppleJavaExtensions</artifactId>  
+			   <version>1.4</version> 
+				</dependency>
 	</dependencies>
 
 	<build>
